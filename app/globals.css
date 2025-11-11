@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+html,
+body {
+  height: 100%;
+  background: #0a0f14;
+  color: #e8f1ff;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #273241 transparent;
+}
+
+/* Custom scrollbar for webkit browsers */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #273241;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #384456;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Smooth scroll with momentum */
+@supports (scrollbar-width: thin) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Animation delays for staggered effects */
+.delay-100 {
+  animation-delay: 100ms;
+}
+
+.delay-200 {
+  animation-delay: 200ms;
+}
+
+.delay-300 {
+  animation-delay: 300ms;
+}
+
+/* Hardware acceleration for smooth animations */
+.transform-gpu {
+  transform: translateZ(0);
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}

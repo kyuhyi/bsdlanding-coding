@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano9_title"><![CDATA[home0]]></data>
+
+
+  <data name="en_pano10_title"><![CDATA[home1]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[home10]]></data>
+
+
+  <data name="en_pano12_title"><![CDATA[home11]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[home12]]></data>
+
+
+  <data name="en_pano14_title"><![CDATA[home2]]></data>
+
+
+  <data name="en_pano15_title"><![CDATA[home3]]></data>
+
+
+  <data name="en_pano16_title"><![CDATA[home4]]></data>
+
+
+  <data name="en_pano17_title"><![CDATA[home5]]></data>
+
+
+  <data name="en_pano18_title"><![CDATA[home6]]></data>
+
+
+  <data name="en_pano19_title"><![CDATA[home7]]></data>
+
+
+  <data name="en_pano20_title"><![CDATA[home8]]></data>
+
+
+  <data name="en_pano21_title"><![CDATA[home9]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_classicprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="en_controlBar_classicnextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_classicmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_classicmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_classicmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="en_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="en_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="en_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_controlBar_classicgyroOnTip"><![CDATA[Enable gyroscope]]></data>
+  <data name="en_controlBar_classicgyroOffTip"><![CDATA[Disable gyroscope]]></data>
+  <data name="en_controlBar_classicdisplayFloorplanTip"><![CDATA[Show floorplan]]></data>
+  <data name="en_controlBar_classichideFloorplanTip"><![CDATA[Hide floorplan]]></data>
+  <data name="en_controlBar_classicshareTip"><![CDATA[Share the tour]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_controlBar_classicctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_classicctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+  <data name="en_projectionMenumenutitlelabel"><![CDATA[Projections]]></data>
+  <data name="en_projectionMenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_projectionMenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_projectionMenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_projectionMenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_projectionMenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_projectionMenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[https://bsdmvp.vercel.app]]></data>
+  <data name="en_logotooltipText"><![CDATA[퍼널띵 랜딩]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
