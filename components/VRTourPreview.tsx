@@ -11,7 +11,7 @@ export default function VRTourPreview() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-5xl font-bold mb-4">360° VR 투어</h2>
           <p className="text-lg md:text-xl text-white/70">
-            실제 교육 공간을 가상으로 체험해보세요
+            바이브코딩과 결합된 VR 투어 감사하기
           </p>
         </div>
 
@@ -24,7 +24,7 @@ export default function VRTourPreview() {
             <div className="relative aspect-video">
               {/* Live VR Tour Preview */}
               <iframe
-                src="https://vrcontinue.com/VR/goo2sson2/goo2sson2.html"
+                src="/goo2sson2/goo2sson2.html"
                 className="w-full h-full pointer-events-none"
                 title="360° VR Tour Preview"
               />
@@ -95,7 +95,7 @@ export default function VRTourPreview() {
 
             {/* VR Tour iframe */}
             <iframe
-              src="https://vrcontinue.com/VR/goo2sson2/goo2sson2.html"
+              src="/goo2sson2/goo2sson2.html"
               className="w-full h-full"
               title="360° VR Tour"
               allowFullScreen

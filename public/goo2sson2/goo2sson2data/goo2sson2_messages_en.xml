@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[goo2sson2]]></data>
+
+
+
+  <data name="en_pano9_title"><![CDATA[kyu1]]></data>
+  <data name="en_spotpoint18_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[kyu8]]></data>
+  <data name="en_spotpoint21_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint76_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint77_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint78_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint79_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[kyu9]]></data>
+  <data name="en_spotpoint80_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint81_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint82_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano16_title"><![CDATA[kyu2]]></data>
+  <data name="en_spotpoint19_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint20_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint64_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint65_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint68_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint159_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint161_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano22_title"><![CDATA[kyu3]]></data>
+  <data name="en_spotpoint67_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano32_title"><![CDATA[kyu4]]></data>
+  <data name="en_spotpoint66_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano34_title"><![CDATA[kyu5]]></data>
+  <data name="en_spotpoint69_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint70_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint71_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano36_title"><![CDATA[kyu6]]></data>
+  <data name="en_spotpoint72_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint73_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint75_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint160_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano38_title"><![CDATA[kyu7]]></data>
+  <data name="en_spotpoint74_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano42_title"><![CDATA[kyu10]]></data>
+  <data name="en_spotpoint86_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint87_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint88_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint89_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano46_title"><![CDATA[kyu12]]></data>
+  <data name="en_spotpoint94_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano48_title"><![CDATA[kyu13]]></data>
+  <data name="en_spotpoint95_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint96_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint97_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano50_title"><![CDATA[kyu14]]></data>
+  <data name="en_spotpoint83_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint84_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint85_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano52_title"><![CDATA[kyu15]]></data>
+  <data name="en_spotpoint98_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint99_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint100_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint164_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano54_title"><![CDATA[kyu16]]></data>
+  <data name="en_spotpoint101_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint102_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano56_title"><![CDATA[kyu17]]></data>
+  <data name="en_spotpoint103_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint104_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano58_title"><![CDATA[kyu18]]></data>
+  <data name="en_spotpoint105_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint106_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint107_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano60_title"><![CDATA[kyu19]]></data>
+  <data name="en_spotpoint108_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano62_title"><![CDATA[kyu20]]></data>
+  <data name="en_spotpoint109_tooltip"><![CDATA[move]]></data>
+
+
+  <data name="en_pano44_title"><![CDATA[kyu11]]></data>
+  <data name="en_spotpoint90_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint91_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint92_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint93_tooltip"><![CDATA[move]]></data>
+  <data name="en_spotpoint162_tooltip"><![CDATA[move]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_classicprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="en_controlBar_classicnextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="en_controlBar_classicmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_classicmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="en_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="en_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="en_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_controlBar_classicgyroOnTip"><![CDATA[Enable gyroscope]]></data>
+  <data name="en_controlBar_classicgyroOffTip"><![CDATA[Disable gyroscope]]></data>
+  <data name="en_controlBar_classicshareTip"><![CDATA[CLICK]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_projectionMenumenutitlelabel"><![CDATA[Projections]]></data>
+  <data name="en_projectionMenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_projectionMenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_projectionMenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_projectionMenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_projectionMenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_projectionMenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
